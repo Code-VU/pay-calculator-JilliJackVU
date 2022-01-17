@@ -4,7 +4,7 @@ def calculatePay():
     inprate = input("Enter Rate: ")
     rate = float(inprate)
     pay = hrs * rate
-    print("Calculating pay:", pay)
+    print(pay)
     
     # end assignment
 
