@@ -1,10 +1,10 @@
 def calculatePay():
     print("calculating pay")
-    inphrs = input("Enter Hours: ")
-    hrs = float(inphrs)
-    inprate = input("Enter Rate: ")
-    rate = float(inprate)
-    pay = hrs * rate
+    hours = input("Enter Hours: ")
+    hrs = float(hours)
+    rate = input("Enter Rate: ")
+    rte = float(inprate)
+    pay = hrs * rte
     print(pay)
     
     # end assignment
